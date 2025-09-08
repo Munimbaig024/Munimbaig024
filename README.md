@@ -1,34 +1,77 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
-</p>
+# Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-<h1 align="center">Hello, I’m Munim! <br/><a href="https://github.com/Munimbaig024">Munimbaig024</a></h1>
-
-⭐ **About Me**
-- A [Your Role] passionate about [Your Interests or Domain]
-- Currently working on [Brief Project / Goal]
-
-##  Tech Stack & Tools
-<p align="left">
-  <!-- Example icons; add your own from DevIcons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</p>
-
-##  GitHub Stats
-<p align="left">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munimbaig024&show_icons=true&theme=default)
-</p>
-
-##  Featured Projects
-- [**Project1**](https://github.com/Munimbaig024/YourProject) – Brief description of what it does.
-- [**Project2**](https://github.com/Munimbaig024/AnotherProject) – Why it's interesting or useful.
-
-##  Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/yourhandle)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Abdul+Munim;Machine+Learning+%26+AI+Enthusiast;Web+Developer;Always+Learning+New+Tech!;" alt="Typing SVG" />
+</div>
 
 ---
 
-*Want to collaborate? Feel free to reach out!* 🚀
+## 💫 About Me
+
+I am an **AI & Web Development Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰  
+
+- 🎓 CS Student @ FAST NUCES  
+- 🤖 Exploring **Machine Learning, Deep Learning & MLOps**  
+- 🌱 Currently working on **AI Companions & Chatbots**  
+- 💻 Building backend projects with **Node.js, Express.js, MongoDB**  
+- ⚡ In free time, I **freelance, game, and tinker with side projects**  
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,nodejs,express,mongodb,git,github,mysql,vscode" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Munimbaig024&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Munimbaig024&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munimbaig024&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Munimbaig024" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 👀 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Munimbaig024&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+<!-- Animation Footer -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
