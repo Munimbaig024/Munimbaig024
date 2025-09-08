@@ -46,10 +46,10 @@ I am an **AI & Web Development Enthusiast** <img src="https://media.giphy.com/me
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="www.linkedin.com/in/abdul-munim-baig-b3741130a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:munim.baig02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Munimbaig024" target="_blank">
