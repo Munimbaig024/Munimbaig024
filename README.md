@@ -11,9 +11,9 @@
 I am an **AI & Web Development Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰  
 
 - 🎓 CS Student @ FAST NUCES  
-- 🤖 Exploring **Machine Learning, Deep Learning & MLOps**  
-- 🌱 Currently working on **AI Companions & Chatbots**  
-- 💻 Building backend projects with **Node.js, Express.js, MongoDB**  
+- 🤖 Exploring **Machine Learning, Deep Learning, Web Dev & DevOps**  
+- 🌱 Currently working on **LLMs and Web Dev**  
+- 💻 Building backend projects with **Node.js, Flask, Mongo DB, SQL**  
 - ⚡ In free time, I **freelance, game, and tinker with side projects**  
 
 ---
