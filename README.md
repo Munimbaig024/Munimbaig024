@@ -28,12 +28,6 @@ I am an **AI & Web Development Enthusiast** <img src="https://media.giphy.com/me
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Munimbaig024&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
