@@ -106,7 +106,11 @@ $ cat about.json
 ## 💬 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+*"An idiot admires complexity, a genius admires simplicity."*
+
+**— Terry A. Davis**
+
 </div>
 
 ---
