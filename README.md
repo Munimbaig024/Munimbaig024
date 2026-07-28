@@ -86,6 +86,19 @@ $ cat about.json
 
 ---
 
+## 🚀 Portfolio & Featured Projects
+
+<div align="center">
+
+### **Explore my portfolio:**
+
+[![Live Portfolio](https://img.shields.io/badge/🌐_Visit_My_Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://munimbaig024.github.io)
+
+</div>
+
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
