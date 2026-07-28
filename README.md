@@ -1,36 +1,40 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Munim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Web%20Developer%20%7C%20CS%20Student&descAlignY=60&descSize=18&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:004d40,100:00e676&height=200&section=header&text=Abdul%20Munim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Web%20Developer%20%7C%20CS%20Major&descAlignY=60&descSize=18&descColor=00ff88"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Exploring+LLMs+%26+Deep+Learning+%F0%9F%A7%A0;Backend+Dev+with+Node.js+%26+Flask+%F0%9F%94%A5;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Exploring+LLMs+%26+Deep+Learning+%F0%9F%A7%A0;Backend+Dev+with+Node.js+%26+Flask+%F0%9F%94%A5;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Badges Row -->
-![Profile Views](https://komarev.com/ghpvc/?username=Munimbaig024&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-munim-baig-b3741130a)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:munim.baig02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/Munimbaig024)
+![Profile Views](https://komarev.com/ghpvc/?username=Munimbaig024&color=0891b2&style=flat-square&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0891b2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-munim-baig-b3741130a)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-0891b2?style=flat-square&logo=gmail&logoColor=white)](mailto:munim.baig02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0891b2?style=flat-square&logo=github&logoColor=white)](https://github.com/Munimbaig024)
+
 
 </div>
 
----
 
+---
 ## `whoami`
-```bash
+```json
 $ cat about.json
 {
   "name": "Abdul Munim Baig",
   "location": "Pakistan 🇵🇰",
   "education": "CS @ FAST NUCES",
-  "focus": ["Machine Learning", "LLMs", "Web Development", "DevOps"],
-  "currently_building": "LLM-powered apps & backend systems",
-  "free_time": ["freelancing", "gaming", "side projects"],
-  "open_to": "collaborations, internships & cool ideas"
+  "core_stack": ["Python", "Node.js", "FastAPI", "PostgreSQL", "Docker"],
+  "ai_interests": ["LLM Fine-tuning", "RAG Pipelines", "Agentic Workflows"],
+  "currently_building": "LLM-powered apps & scalable backend systems",
+  "currently_learning": ["Distributed Systems", "Advanced DevOps"],
+  "free_time": ["Freelancing", "Gaming", "Open-source hacking"],
+  "open_to": "High-impact collaborations, freelance projects & cool ideas",
+  "contact": "munim.baig02@gmail.com"
 }
 ```
 
@@ -74,31 +78,12 @@ $ cat about.json
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Munimbaig024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munimbaig024&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Munimbaig024&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Munimbaig024&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</div>
-
----
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munimbaig024&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munimbaig024&bg_color=0d1117&color=10b981&line=00ff88&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -117,12 +102,7 @@ $ cat about.json
 
 <div align="center">
 
-**Let's build something cool together 🚀**
 
-[![LinkedIn](https://img.shields.io/badge/-Abdul%20Munim-7c3aed?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-munim-baig-b3741130a)
-[![Gmail](https://img.shields.io/badge/-munim.baig02@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:munim.baig02@gmail.com)
-
-</div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,50:004d40,100:0d1117&height=120&section=footer"/>
