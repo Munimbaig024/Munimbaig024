@@ -92,20 +92,15 @@ $ cat about.json
 
 ### **Explore my portfolio:**
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Visit_My_Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://munimbaig024.github.io)
+<a href="https://munimbaig024.github.io" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff88" alt="Live Portfolio">
+</a>
 
 </div>
 
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munimbaig024&bg_color=0d1117&color=10b981&line=00ff88&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
 
 ## 💬 Dev Quote
 
