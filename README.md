@@ -92,8 +92,7 @@ $ cat about.json
 
 ### **Explore my portfolio:**
 
-[![Live Portfolio](https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=100&section=header&text=Visit%20My%20Portfolio&fontSize=30&fontColor=ffffff&animation=fadeIn)](https://munimbaig024.github.io)
-
+[![Live Portfolio](https://img.shields.io/badge/🌐_Visit-Portfolio-00ff88?style=for-the-badge&labelColor=000000&color=00ff88&logo=vercel&logoColor=white)](https://munimbaig024.github.io)
 </div>
 
 
