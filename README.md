@@ -99,17 +99,6 @@ $ cat about.json
 ---
 
 
-## 💬 Dev Quote
-
-<div align="center">
-
-*"An idiot admires complexity, a genius admires simplicity."*
-
-**— Terry A. Davis**
-
-</div>
-
----
 
 <div align="center">
 
